@@ -23,10 +23,10 @@ public class Main {
     }
 }
 
-P     M
- R   A 
-  O R  
-   G   
-  G R  
- O   A 
-R     M
+// P     M
+//  R   A 
+//   O R  
+//    G   
+//   G R  
+//  O   A 
+// R     M
